@@ -1,0 +1,8 @@
+# file C
+*.o
+*.exe
+
+# file Python
+__pycache__/
+*.pyc
+*.pyo
